@@ -1,9 +1,0 @@
-[33mf7e05f5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: commit: Added .gitignore
-[33m7cee382[m HEAD@{1}: commit: ?
-[33m1174eff[m HEAD@{2}: commit: .gitignore fix
-[33m869e2e5[m HEAD@{3}: commit: Remove ignored files
-[33m36442ce[m HEAD@{4}: reset: moving to HEAD
-[33m36442ce[m HEAD@{5}: commit: .gitignore is now working
-[33mc2d52ad[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{6}: commit: test change margin
-[33m14a9c39[m HEAD@{7}: Branch: renamed refs/heads/master to refs/heads/main
-[33m14a9c39[m HEAD@{9}: commit (initial): first commit
